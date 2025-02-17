@@ -15,24 +15,24 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'Entrecon\'24',
             intro: ' The annual flagship event of the Entrepreneurship Cell aims to inspire and empower students by connecting them with industry experts and emerging startups, fostering entrepreneurial spirit and learning.',
             description: 'Entrecon is our premier annual event designed to bridge the gap between aspiring entrepreneurs and the dynamic world of startups. This comprehensive event brings together industry leaders, successful entrepreneurs, and passionate students to create a vibrant ecosystem of innovation and learning.',
-            image: '../assets/events/entrecon1.jpg',
+            image: '../events/entrecon1.jpg',
             gallery: [
-                '../assets/events/entrecon1.jpg',
-                '../assets/events/entrecon2.jpg',
-                '../assets/events/entrecon3.jpg',
-                '../assets/events/entrecon4.jpg'
+                '../events/entrecon1.jpg',
+                '../events/entrecon2.jpg',
+                '../events/entrecon3.jpg',
+                '../events/entrecon4.jpg'
             ]
         },
         {
             title: 'Orientation\'24',
             intro: 'The E-Cell hosted an inspiring orientation, igniting entrepreneurial passion among students. The event showcased the E-Cell\'s vision, upcoming opportunities, and success stories, motivating students to embark on their journey of innovation and leadership.',
-            image: '../assets/events/orientation1.jpeg',
+            image: '../events/orientation1.jpeg',
             description: 'Our annual Orientation Program is a transformative event that introduces students to the exciting world of entrepreneurship. Through engaging presentations, interactive sessions, and inspiring talks, we aim to kindle the entrepreneurial spirit and provide a roadmap for innovation and leadership.',
             gallery: [
-                '../assets/events/orientation1.jpeg',
-                '../assets/events/orientation2.jpg',
-                '../assets/events/orientation3.jpg',
-                '../assets/events/orientation4.jpg'
+                '../events/orientation1.jpeg',
+                '../events/orientation2.jpg',
+                '../events/orientation3.jpg',
+                '../events/orientation4.jpg'
 
             ]
         },
@@ -40,20 +40,20 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'Induction Ceremony',
             intro: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
             description: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
-            image: '../assets/events/team-cover.jpg',
+            image: '../events/team-cover.jpg',
             gallery: [
-                    '../assets/events/team-cover.jpg',
-                    '../assets/events/induction2.jpg',
-                    '../assets/events/induction3.jpg',
+                    '../events/team-cover.jpg',
+                    '../events/induction2.jpg',
+                    '../events/induction3.jpg',
             ]
         },
         {
             title: 'NSIC Okhla Visit',
             intro: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
             description: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
-            image: '../assets/nsic.png',
+            image: '../events/nsic.png',
             gallery: [
-                '../assets/events/nsic.png',
+                '../events/nsic.png',
                  
             ]
         },
